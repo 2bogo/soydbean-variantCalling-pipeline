@@ -1,3 +1,5 @@
 .snakemake
 ref/*
 samples/*
+output/*
+.ipynb_checkpoints/
